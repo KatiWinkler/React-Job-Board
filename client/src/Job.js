@@ -29,6 +29,7 @@ function getMDY(ts) {
 
 // makeDate takes a TS and returns a date like Fri Jun 14
 // if it's today or yesterday, it returns that instead
+// readability 
 function makeDate(timestamp) {
   const date = new Date(timestamp);
   const dateStr = getMDY(date);
