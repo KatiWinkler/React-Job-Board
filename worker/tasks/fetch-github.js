@@ -49,6 +49,6 @@ async function fetchGithub() {
   console.log({ success });
 }
 
-fetchGithub(); 
+fetchGithub();
 
 module.exports = fetchGithub;
