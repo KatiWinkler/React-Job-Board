@@ -48,7 +48,7 @@ async function fetchGithub() {
 
   console.log({ success });
 }
-
+//uncomment out the function below if you want to run the file and ensure it's still pulling all the correct jobs 
 fetchGithub();
 
 module.exports = fetchGithub;
