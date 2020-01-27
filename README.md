@@ -4,5 +4,6 @@
 -Future Improvements: 
 1. CSS for better UI/UX
 2. Add additional APIs 
-3. Upgrade algorithm to be more accurate
+3. Upgrade algorithm to be more accurate 
+
 
