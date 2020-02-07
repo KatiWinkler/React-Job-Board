@@ -1,5 +1,9 @@
+
+
 body {
-  margin: 20px 40px;
+  margin-left: 20%;
+  margin-right: 10%;
+  background-color: antiquewhite;
 }
 
 .job {
@@ -37,7 +41,7 @@ body {
 }
 
 .welcome-item {
-  opacity: 0;
+  opacity: 100;
   transition: .5s ease all;
 }
 
@@ -48,4 +52,32 @@ body {
 
 .job-title-location {
   margin-left: 20px;
+  text-align: left;
 }
+
+.jobs {
+  text-align: center;
+  font-family: cursive;
+}
+
+
+.MuiTypography-root {
+  font-family: serif;
+  font-style: oblique;
+  font-variant: small-caps;
+
+}
+.MuiTypography-h6 {
+  padding-top: 10px;
+  padding-right: 250px;
+  padding-left: inherit;
+}
+
+.MuiTypography-h3 {
+  font-family: cursive !important;
+  font-variant: normal !important;
+  text-align: justify;
+  padding-left: 285px;
+  padding-top: 20px;
+}
+
